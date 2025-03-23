@@ -1,0 +1,4 @@
+User IP: ::1-GET /about -Status: 404
+User IP: ::1-GET /about -Status: 404
+User IP: ::1-GET /contact -Status: 404
+User IP: ::1-GET /DMSans-Regular.ttf -Status: 404
