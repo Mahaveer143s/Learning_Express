@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 .psci_modules
 .spago
@@ -7,3 +8,8 @@ node_modules
 # Generated files
 .psci
 output
+=======
+# Hiding the node mules 
+node_modules/
+.env
+>>>>>>> 6d040e8 (Initial commit)
